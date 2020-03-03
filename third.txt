@@ -1,1 +1,3 @@
 this is new file 3rd.txt
+
+new changes in 3rd.txt
